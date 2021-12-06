@@ -1,0 +1,4646 @@
+{
+  "QtdPorTipo": [
+    {
+      "Type": "Bug",
+      "Count": 84
+    },
+    {
+      "Type": "Dragon",
+      "Count": 56
+    },
+    {
+      "Type": "Water",
+      "Count": 141
+    },
+    {
+      "Type": "Steel",
+      "Count": 54
+    },
+    {
+      "Type": "Grass",
+      "Count": 107
+    },
+    {
+      "Type": "Ghost",
+      "Count": 51
+    },
+    {
+      "Type": "Flying",
+      "Count": 102
+    },
+    {
+      "Type": "Dark",
+      "Count": 55
+    },
+    {
+      "Type": "Electric",
+      "Count": 57
+    },
+    {
+      "Type": "Ice",
+      "Count": 41
+    },
+    {
+      "Type": "Rock",
+      "Count": 65
+    },
+    {
+      "Type": "Psychic",
+      "Count": 90
+    },
+    {
+      "Type": "Fire",
+      "Count": 71
+    },
+    {
+      "Type": "Fighting",
+      "Count": 61
+    },
+    {
+      "Type": "Ground",
+      "Count": 67
+    },
+    {
+      "Type": "Poison",
+      "Count": 69
+    },
+    {
+      "Type": "Fairy",
+      "Count": 54
+    },
+    {
+      "Type": "Normal",
+      "Count": 115
+    }
+  ],
+  "Top5Poke": {
+    "Geral": [
+      {
+        "Name": "Slaking",
+        "Overall": 510.0,
+        "HP": 150.0,
+        "Atk": 160.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Groudon",
+        "Overall": 480.0,
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 140.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Kartana",
+        "Overall": 480.0,
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Regigigas",
+        "Overall": 480.0,
+        "HP": 110.0,
+        "Atk": 160.0,
+        "Def": 110.0,
+        "Speed": 100.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Arceus",
+        "Overall": 480.0,
+        "HP": 120.0,
+        "Atk": 120.0,
+        "Def": 120.0,
+        "Speed": 120.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 120.0
+      }
+    ],
+    "Fire": [
+      {
+        "Name": "Ho-Oh",
+        "Overall": 416.0,
+        "HP": 106.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 90.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Entei",
+        "Overall": 415.0,
+        "HP": 115.0,
+        "Atk": 115.0,
+        "Def": 85.0,
+        "Speed": 100.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Reshiram",
+        "Overall": 410.0,
+        "HP": 100.0,
+        "Atk": 120.0,
+        "Def": 100.0,
+        "Speed": 90.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Victini",
+        "Overall": 400.0,
+        "HP": 100.0,
+        "Atk": 100.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Darmanitan",
+        "Overall": 395.0,
+        "HP": 105.0,
+        "Atk": 140.0,
+        "Def": 55.0,
+        "Speed": 95.0,
+        "SpecialAtk": 30.0,
+        "SpecialDef": 55.0
+      }
+    ],
+    "Water": [
+      {
+        "Name": "Palkia",
+        "Overall": 410.0,
+        "HP": 90.0,
+        "Atk": 120.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Manaphy",
+        "Overall": 400.0,
+        "HP": 100.0,
+        "Atk": 100.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Cloyster",
+        "Overall": 395.0,
+        "HP": 50.0,
+        "Atk": 95.0,
+        "Def": 180.0,
+        "Speed": 70.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 45.0
+      },
+      {
+        "Name": "Alomomola",
+        "Overall": 385.0,
+        "HP": 165.0,
+        "Atk": 75.0,
+        "Def": 80.0,
+        "Speed": 65.0,
+        "SpecialAtk": 40.0,
+        "SpecialDef": 45.0
+      },
+      {
+        "Name": "Kyogre",
+        "Overall": 380.0,
+        "HP": 100.0,
+        "Atk": 100.0,
+        "Def": 90.0,
+        "Speed": 90.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 140.0
+      }
+    ],
+    "Ground": [
+      {
+        "Name": "Groudon",
+        "Overall": 480.0,
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 140.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Garchomp",
+        "Overall": 435.0,
+        "HP": 108.0,
+        "Atk": 130.0,
+        "Def": 95.0,
+        "Speed": 102.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Rhyperior",
+        "Overall": 425.0,
+        "HP": 115.0,
+        "Atk": 140.0,
+        "Def": 130.0,
+        "Speed": 40.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 55.0
+      },
+      {
+        "Name": "Zygarde",
+        "Overall": 424.0,
+        "HP": 108.0,
+        "Atk": 100.0,
+        "Def": 121.0,
+        "Speed": 95.0,
+        "SpecialAtk": 81.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Landorus",
+        "Overall": 405.0,
+        "HP": 89.0,
+        "Atk": 125.0,
+        "Def": 90.0,
+        "Speed": 101.0,
+        "SpecialAtk": 115.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Poison": [
+      {
+        "Name": "Eternatus",
+        "Overall": 450.0,
+        "HP": 140.0,
+        "Atk": 85.0,
+        "Def": 95.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Crobat",
+        "Overall": 385.0,
+        "HP": 85.0,
+        "Atk": 90.0,
+        "Def": 80.0,
+        "Speed": 130.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Drapion",
+        "Overall": 365.0,
+        "HP": 70.0,
+        "Atk": 90.0,
+        "Def": 110.0,
+        "Speed": 95.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Scolipede",
+        "Overall": 361.0,
+        "HP": 60.0,
+        "Atk": 100.0,
+        "Def": 89.0,
+        "Speed": 112.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 69.0
+      },
+      {
+        "Name": "Skuntank",
+        "Overall": 347.0,
+        "HP": 103.0,
+        "Atk": 93.0,
+        "Def": 67.0,
+        "Speed": 84.0,
+        "SpecialAtk": 71.0,
+        "SpecialDef": 61.0
+      }
+    ],
+    "Fairy": [
+      {
+        "Name": "Zacian",
+        "Overall": 475.0,
+        "HP": 92.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 138.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 115.0
+      },
+      {
+        "Name": "Xerneas",
+        "Overall": 451.0,
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Tapu Koko",
+        "Overall": 400.0,
+        "HP": 70.0,
+        "Atk": 115.0,
+        "Def": 85.0,
+        "Speed": 130.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Tapu Bulu",
+        "Overall": 390.0,
+        "HP": 70.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 75.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Magearna",
+        "Overall": 355.0,
+        "HP": 80.0,
+        "Atk": 95.0,
+        "Def": 115.0,
+        "Speed": 65.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 115.0
+      }
+    ],
+    "Normal": [
+      {
+        "Name": "Slaking",
+        "Overall": 510.0,
+        "HP": 150.0,
+        "Atk": 160.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Arceus",
+        "Overall": 480.0,
+        "HP": 120.0,
+        "Atk": 120.0,
+        "Def": 120.0,
+        "Speed": 120.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Regigigas",
+        "Overall": 480.0,
+        "HP": 110.0,
+        "Atk": 160.0,
+        "Def": 110.0,
+        "Speed": 100.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Bewear",
+        "Overall": 385.0,
+        "HP": 120.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 60.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Miltank",
+        "Overall": 380.0,
+        "HP": 95.0,
+        "Atk": 80.0,
+        "Def": 105.0,
+        "Speed": 100.0,
+        "SpecialAtk": 40.0,
+        "SpecialDef": 70.0
+      }
+    ],
+    "Dragon": [
+      {
+        "Name": "Zekrom",
+        "Overall": 460.0,
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Giratina",
+        "Overall": 460.0,
+        "HP": 150.0,
+        "Atk": 100.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Eternatus",
+        "Overall": 450.0,
+        "HP": 140.0,
+        "Atk": 85.0,
+        "Def": 95.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Kyurem",
+        "Overall": 440.0,
+        "HP": 125.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Rayquaza",
+        "Overall": 440.0,
+        "HP": 105.0,
+        "Atk": 150.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Psychic": [
+      {
+        "Name": "Solgaleo",
+        "Overall": 478.0,
+        "HP": 137.0,
+        "Atk": 137.0,
+        "Def": 107.0,
+        "Speed": 97.0,
+        "SpecialAtk": 113.0,
+        "SpecialDef": 89.0
+      },
+      {
+        "Name": "Lugia",
+        "Overall": 436.0,
+        "HP": 106.0,
+        "Atk": 90.0,
+        "Def": 130.0,
+        "Speed": 110.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Lunala",
+        "Overall": 436.0,
+        "HP": 137.0,
+        "Atk": 113.0,
+        "Def": 89.0,
+        "Speed": 97.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 107.0
+      },
+      {
+        "Name": "Mewtwo",
+        "Overall": 436.0,
+        "HP": 106.0,
+        "Atk": 110.0,
+        "Def": 90.0,
+        "Speed": 130.0,
+        "SpecialAtk": 154.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Metagross",
+        "Overall": 415.0,
+        "HP": 80.0,
+        "Atk": 135.0,
+        "Def": 130.0,
+        "Speed": 70.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Fighting": [
+      {
+        "Name": "Zamazenta",
+        "Overall": 475.0,
+        "HP": 92.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 138.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 115.0
+      },
+      {
+        "Name": "Buzzwole",
+        "Overall": 464.0,
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Urshifu",
+        "Overall": 427.0,
+        "HP": 100.0,
+        "Atk": 130.0,
+        "Def": 100.0,
+        "Speed": 97.0,
+        "SpecialAtk": 63.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Marshadow",
+        "Overall": 420.0,
+        "HP": 90.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 125.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Terrakion",
+        "Overall": 418.0,
+        "HP": 91.0,
+        "Atk": 129.0,
+        "Def": 90.0,
+        "Speed": 108.0,
+        "SpecialAtk": 72.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Ghost": [
+      {
+        "Name": "Giratina",
+        "Overall": 460.0,
+        "HP": 150.0,
+        "Atk": 100.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Lunala",
+        "Overall": 436.0,
+        "HP": 137.0,
+        "Atk": 113.0,
+        "Def": 89.0,
+        "Speed": 97.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 107.0
+      },
+      {
+        "Name": "Dragapult",
+        "Overall": 425.0,
+        "HP": 88.0,
+        "Atk": 120.0,
+        "Def": 75.0,
+        "Speed": 142.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Marshadow",
+        "Overall": 420.0,
+        "HP": 90.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 125.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Gourgeist",
+        "Overall": 361.0,
+        "HP": 65.0,
+        "Atk": 90.0,
+        "Def": 122.0,
+        "Speed": 84.0,
+        "SpecialAtk": 58.0,
+        "SpecialDef": 75.0
+      }
+    ],
+    "Flying": [
+      {
+        "Name": "Yveltal",
+        "Overall": 451.0,
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Rayquaza",
+        "Overall": 440.0,
+        "HP": 105.0,
+        "Atk": 150.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Lugia",
+        "Overall": 436.0,
+        "HP": 106.0,
+        "Atk": 90.0,
+        "Def": 130.0,
+        "Speed": 110.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Ho-Oh",
+        "Overall": 416.0,
+        "HP": 106.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 90.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Salamence",
+        "Overall": 410.0,
+        "HP": 95.0,
+        "Atk": 135.0,
+        "Def": 80.0,
+        "Speed": 100.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Rock": [
+      {
+        "Name": "Stonjourner",
+        "Overall": 430.0,
+        "HP": 100.0,
+        "Atk": 125.0,
+        "Def": 135.0,
+        "Speed": 70.0,
+        "SpecialAtk": 20.0,
+        "SpecialDef": 20.0
+      },
+      {
+        "Name": "Regirock",
+        "Overall": 430.0,
+        "HP": 80.0,
+        "Atk": 100.0,
+        "Def": 200.0,
+        "Speed": 50.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Rhyperior",
+        "Overall": 425.0,
+        "HP": 115.0,
+        "Atk": 140.0,
+        "Def": 130.0,
+        "Speed": 40.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 55.0
+      },
+      {
+        "Name": "Terrakion",
+        "Overall": 418.0,
+        "HP": 91.0,
+        "Atk": 129.0,
+        "Def": 90.0,
+        "Speed": 108.0,
+        "SpecialAtk": 72.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Stakataka",
+        "Overall": 416.0,
+        "HP": 61.0,
+        "Atk": 131.0,
+        "Def": 211.0,
+        "Speed": 13.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 101.0
+      }
+    ],
+    "Dark": [
+      {
+        "Name": "Yveltal",
+        "Overall": 451.0,
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Zarude",
+        "Overall": 435.0,
+        "HP": 105.0,
+        "Atk": 120.0,
+        "Def": 105.0,
+        "Speed": 105.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Urshifu",
+        "Overall": 427.0,
+        "HP": 100.0,
+        "Atk": 130.0,
+        "Def": 100.0,
+        "Speed": 97.0,
+        "SpecialAtk": 63.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Guzzlord",
+        "Overall": 420.0,
+        "HP": 223.0,
+        "Atk": 101.0,
+        "Def": 53.0,
+        "Speed": 43.0,
+        "SpecialAtk": 97.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Tyranitar",
+        "Overall": 405.0,
+        "HP": 100.0,
+        "Atk": 134.0,
+        "Def": 110.0,
+        "Speed": 61.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 100.0
+      }
+    ],
+    "Electric": [
+      {
+        "Name": "Zekrom",
+        "Overall": 460.0,
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Regieleki",
+        "Overall": 430.0,
+        "HP": 80.0,
+        "Atk": 100.0,
+        "Def": 50.0,
+        "Speed": 200.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Zeraora",
+        "Overall": 418.0,
+        "HP": 88.0,
+        "Atk": 112.0,
+        "Def": 75.0,
+        "Speed": 143.0,
+        "SpecialAtk": 102.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Tapu Koko",
+        "Overall": 400.0,
+        "HP": 70.0,
+        "Atk": 115.0,
+        "Def": 85.0,
+        "Speed": 130.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Thundurus",
+        "Overall": 375.0,
+        "HP": 79.0,
+        "Atk": 115.0,
+        "Def": 70.0,
+        "Speed": 111.0,
+        "SpecialAtk": 125.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Ice": [
+      {
+        "Name": "Kyurem",
+        "Overall": 440.0,
+        "HP": 125.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Avalugg",
+        "Overall": 424.0,
+        "HP": 95.0,
+        "Atk": 117.0,
+        "Def": 184.0,
+        "Speed": 28.0,
+        "SpecialAtk": 44.0,
+        "SpecialDef": 46.0
+      },
+      {
+        "Name": "Glastrier",
+        "Overall": 405.0,
+        "HP": 100.0,
+        "Atk": 145.0,
+        "Def": 130.0,
+        "Speed": 30.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Mamoswine",
+        "Overall": 400.0,
+        "HP": 110.0,
+        "Atk": 130.0,
+        "Def": 80.0,
+        "Speed": 80.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Cloyster",
+        "Overall": 395.0,
+        "HP": 50.0,
+        "Atk": 95.0,
+        "Def": 180.0,
+        "Speed": 70.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 45.0
+      }
+    ],
+    "Bug": [
+      {
+        "Name": "Buzzwole",
+        "Overall": 464.0,
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Pheromosa",
+        "Overall": 396.0,
+        "HP": 71.0,
+        "Atk": 137.0,
+        "Def": 37.0,
+        "Speed": 151.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 37.0
+      },
+      {
+        "Name": "Durant",
+        "Overall": 388.0,
+        "HP": 58.0,
+        "Atk": 109.0,
+        "Def": 112.0,
+        "Speed": 109.0,
+        "SpecialAtk": 48.0,
+        "SpecialDef": 48.0
+      },
+      {
+        "Name": "Genesect",
+        "Overall": 385.0,
+        "HP": 71.0,
+        "Atk": 120.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Golisopod",
+        "Overall": 380.0,
+        "HP": 75.0,
+        "Atk": 125.0,
+        "Def": 140.0,
+        "Speed": 40.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Steel": [
+      {
+        "Name": "Kartana",
+        "Overall": 480.0,
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Solgaleo",
+        "Overall": 478.0,
+        "HP": 137.0,
+        "Atk": 137.0,
+        "Def": 107.0,
+        "Speed": 97.0,
+        "SpecialAtk": 113.0,
+        "SpecialDef": 89.0
+      },
+      {
+        "Name": "Melmetal",
+        "Overall": 455.0,
+        "HP": 135.0,
+        "Atk": 143.0,
+        "Def": 143.0,
+        "Speed": 34.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Dialga",
+        "Overall": 430.0,
+        "HP": 100.0,
+        "Atk": 120.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Cobalion",
+        "Overall": 418.0,
+        "HP": 91.0,
+        "Atk": 90.0,
+        "Def": 129.0,
+        "Speed": 108.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 72.0
+      }
+    ],
+    "Grass": [
+      {
+        "Name": "Kartana",
+        "Overall": 480.0,
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Zarude",
+        "Overall": 435.0,
+        "HP": 105.0,
+        "Atk": 120.0,
+        "Def": 105.0,
+        "Speed": 105.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Rillaboom",
+        "Overall": 400.0,
+        "HP": 100.0,
+        "Atk": 125.0,
+        "Def": 90.0,
+        "Speed": 85.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Shaymin",
+        "Overall": 400.0,
+        "HP": 100.0,
+        "Atk": 100.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Leafeon",
+        "Overall": 400.0,
+        "HP": 65.0,
+        "Atk": 110.0,
+        "Def": 130.0,
+        "Speed": 95.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 65.0
+      }
+    ]
+  },
+  "Top5Vida": {
+    "Geral": [
+      {
+        "Name": "Blissey",
+        "HP": 255.0,
+        "Atk": 10.0,
+        "Def": 10.0,
+        "Speed": 55.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 135.0
+      },
+      {
+        "Name": "Chansey",
+        "HP": 250.0,
+        "Atk": 5.0,
+        "Def": 5.0,
+        "Speed": 50.0,
+        "SpecialAtk": 35.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Guzzlord",
+        "HP": 223.0,
+        "Atk": 101.0,
+        "Def": 53.0,
+        "Speed": 43.0,
+        "SpecialAtk": 97.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Regidrago",
+        "HP": 200.0,
+        "Atk": 100.0,
+        "Def": 50.0,
+        "Speed": 80.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Wobbuffet",
+        "HP": 190.0,
+        "Atk": 33.0,
+        "Def": 58.0,
+        "Speed": 33.0,
+        "SpecialAtk": 33.0,
+        "SpecialDef": 58.0
+      }
+    ],
+    "Fire": [
+      {
+        "Name": "Entei",
+        "HP": 115.0,
+        "Atk": 115.0,
+        "Def": 85.0,
+        "Speed": 100.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Emboar",
+        "HP": 110.0,
+        "Atk": 123.0,
+        "Def": 65.0,
+        "Speed": 65.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Coalossal",
+        "HP": 110.0,
+        "Atk": 80.0,
+        "Def": 120.0,
+        "Speed": 30.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Ho-Oh",
+        "HP": 106.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 90.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Darmanitan",
+        "HP": 105.0,
+        "Atk": 140.0,
+        "Def": 55.0,
+        "Speed": 95.0,
+        "SpecialAtk": 30.0,
+        "SpecialDef": 55.0
+      }
+    ],
+    "Water": [
+      {
+        "Name": "Wailord",
+        "HP": 170.0,
+        "Atk": 90.0,
+        "Def": 45.0,
+        "Speed": 60.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 45.0
+      },
+      {
+        "Name": "Alomomola",
+        "HP": 165.0,
+        "Atk": 75.0,
+        "Def": 80.0,
+        "Speed": 65.0,
+        "SpecialAtk": 40.0,
+        "SpecialDef": 45.0
+      },
+      {
+        "Name": "Wailmer",
+        "HP": 130.0,
+        "Atk": 70.0,
+        "Def": 35.0,
+        "Speed": 60.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 35.0
+      },
+      {
+        "Name": "Lapras",
+        "HP": 130.0,
+        "Atk": 85.0,
+        "Def": 80.0,
+        "Speed": 60.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Vaporeon",
+        "HP": 130.0,
+        "Atk": 65.0,
+        "Def": 60.0,
+        "Speed": 65.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 95.0
+      }
+    ],
+    "Ground": [
+      {
+        "Name": "Rhyperior",
+        "HP": 115.0,
+        "Atk": 140.0,
+        "Def": 130.0,
+        "Speed": 40.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 55.0
+      },
+      {
+        "Name": "Gastrodon",
+        "HP": 111.0,
+        "Atk": 83.0,
+        "Def": 68.0,
+        "Speed": 39.0,
+        "SpecialAtk": 92.0,
+        "SpecialDef": 82.0
+      },
+      {
+        "Name": "Excadrill",
+        "HP": 110.0,
+        "Atk": 135.0,
+        "Def": 60.0,
+        "Speed": 88.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Mamoswine",
+        "HP": 110.0,
+        "Atk": 130.0,
+        "Def": 80.0,
+        "Speed": 80.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Whiscash",
+        "HP": 110.0,
+        "Atk": 78.0,
+        "Def": 73.0,
+        "Speed": 60.0,
+        "SpecialAtk": 76.0,
+        "SpecialDef": 71.0
+      }
+    ],
+    "Poison": [
+      {
+        "Name": "Eternatus",
+        "HP": 140.0,
+        "Atk": 85.0,
+        "Def": 95.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Amoonguss",
+        "HP": 114.0,
+        "Atk": 85.0,
+        "Def": 70.0,
+        "Speed": 30.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Nihilego",
+        "HP": 109.0,
+        "Atk": 53.0,
+        "Def": 47.0,
+        "Speed": 103.0,
+        "SpecialAtk": 127.0,
+        "SpecialDef": 131.0
+      },
+      {
+        "Name": "Muk",
+        "HP": 105.0,
+        "Atk": 105.0,
+        "Def": 75.0,
+        "Speed": 50.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Skuntank",
+        "HP": 103.0,
+        "Atk": 93.0,
+        "Def": 67.0,
+        "Speed": 84.0,
+        "SpecialAtk": 71.0,
+        "SpecialDef": 61.0
+      }
+    ],
+    "Fairy": [
+      {
+        "Name": "Wigglytuff",
+        "HP": 140.0,
+        "Atk": 70.0,
+        "Def": 45.0,
+        "Speed": 45.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Xerneas",
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Jigglypuff",
+        "HP": 115.0,
+        "Atk": 45.0,
+        "Def": 20.0,
+        "Speed": 20.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 25.0
+      },
+      {
+        "Name": "Aromatisse",
+        "HP": 101.0,
+        "Atk": 72.0,
+        "Def": 72.0,
+        "Speed": 29.0,
+        "SpecialAtk": 99.0,
+        "SpecialDef": 89.0
+      },
+      {
+        "Name": "Azumarill",
+        "HP": 100.0,
+        "Atk": 50.0,
+        "Def": 80.0,
+        "Speed": 50.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Normal": [
+      {
+        "Name": "Blissey",
+        "HP": 255.0,
+        "Atk": 10.0,
+        "Def": 10.0,
+        "Speed": 55.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 135.0
+      },
+      {
+        "Name": "Chansey",
+        "HP": 250.0,
+        "Atk": 5.0,
+        "Def": 5.0,
+        "Speed": 50.0,
+        "SpecialAtk": 35.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Snorlax",
+        "HP": 160.0,
+        "Atk": 110.0,
+        "Def": 65.0,
+        "Speed": 30.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Slaking",
+        "HP": 150.0,
+        "Atk": 160.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Wigglytuff",
+        "HP": 140.0,
+        "Atk": 70.0,
+        "Def": 45.0,
+        "Speed": 45.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 50.0
+      }
+    ],
+    "Dragon": [
+      {
+        "Name": "Guzzlord",
+        "HP": 223.0,
+        "Atk": 101.0,
+        "Def": 53.0,
+        "Speed": 43.0,
+        "SpecialAtk": 97.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Regidrago",
+        "HP": 200.0,
+        "Atk": 100.0,
+        "Def": 50.0,
+        "Speed": 80.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Giratina",
+        "HP": 150.0,
+        "Atk": 100.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Eternatus",
+        "HP": 140.0,
+        "Atk": 85.0,
+        "Def": 95.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Kyurem",
+        "HP": 125.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Psychic": [
+      {
+        "Name": "Wobbuffet",
+        "HP": 190.0,
+        "Atk": 33.0,
+        "Def": 58.0,
+        "Speed": 33.0,
+        "SpecialAtk": 33.0,
+        "SpecialDef": 58.0
+      },
+      {
+        "Name": "Solgaleo",
+        "HP": 137.0,
+        "Atk": 137.0,
+        "Def": 107.0,
+        "Speed": 97.0,
+        "SpecialAtk": 113.0,
+        "SpecialDef": 89.0
+      },
+      {
+        "Name": "Lunala",
+        "HP": 137.0,
+        "Atk": 113.0,
+        "Def": 89.0,
+        "Speed": 97.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 107.0
+      },
+      {
+        "Name": "Cresselia",
+        "HP": 120.0,
+        "Atk": 70.0,
+        "Def": 120.0,
+        "Speed": 85.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 130.0
+      },
+      {
+        "Name": "Musharna",
+        "HP": 116.0,
+        "Atk": 55.0,
+        "Def": 85.0,
+        "Speed": 29.0,
+        "SpecialAtk": 107.0,
+        "SpecialDef": 95.0
+      }
+    ],
+    "Fighting": [
+      {
+        "Name": "Hariyama",
+        "HP": 144.0,
+        "Atk": 120.0,
+        "Def": 60.0,
+        "Speed": 50.0,
+        "SpecialAtk": 40.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Throh",
+        "HP": 120.0,
+        "Atk": 100.0,
+        "Def": 85.0,
+        "Speed": 45.0,
+        "SpecialAtk": 30.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Bewear",
+        "HP": 120.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 60.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Emboar",
+        "HP": 110.0,
+        "Atk": 123.0,
+        "Def": 65.0,
+        "Speed": 65.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Buzzwole",
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      }
+    ],
+    "Ghost": [
+      {
+        "Name": "Drifblim",
+        "HP": 150.0,
+        "Atk": 80.0,
+        "Def": 44.0,
+        "Speed": 80.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 54.0
+      },
+      {
+        "Name": "Giratina",
+        "HP": 150.0,
+        "Atk": 100.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Lunala",
+        "HP": 137.0,
+        "Atk": 113.0,
+        "Def": 89.0,
+        "Speed": 97.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 107.0
+      },
+      {
+        "Name": "Spectrier",
+        "HP": 100.0,
+        "Atk": 65.0,
+        "Def": 60.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Jellicent",
+        "HP": 100.0,
+        "Atk": 60.0,
+        "Def": 70.0,
+        "Speed": 60.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 105.0
+      }
+    ],
+    "Flying": [
+      {
+        "Name": "Drifblim",
+        "HP": 150.0,
+        "Atk": 80.0,
+        "Def": 44.0,
+        "Speed": 80.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 54.0
+      },
+      {
+        "Name": "Yveltal",
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Mandibuzz",
+        "HP": 110.0,
+        "Atk": 65.0,
+        "Def": 105.0,
+        "Speed": 80.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Ho-Oh",
+        "HP": 106.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 90.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Lugia",
+        "HP": 106.0,
+        "Atk": 90.0,
+        "Def": 130.0,
+        "Speed": 110.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 154.0
+      }
+    ],
+    "Rock": [
+      {
+        "Name": "Aurorus",
+        "HP": 123.0,
+        "Atk": 77.0,
+        "Def": 72.0,
+        "Speed": 58.0,
+        "SpecialAtk": 99.0,
+        "SpecialDef": 92.0
+      },
+      {
+        "Name": "Rhyperior",
+        "HP": 115.0,
+        "Atk": 140.0,
+        "Def": 130.0,
+        "Speed": 40.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 55.0
+      },
+      {
+        "Name": "Coalossal",
+        "HP": 110.0,
+        "Atk": 80.0,
+        "Def": 120.0,
+        "Speed": 30.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Nihilego",
+        "HP": 109.0,
+        "Atk": 53.0,
+        "Def": 47.0,
+        "Speed": 103.0,
+        "SpecialAtk": 127.0,
+        "SpecialDef": 131.0
+      },
+      {
+        "Name": "Rhydon",
+        "HP": 105.0,
+        "Atk": 130.0,
+        "Def": 120.0,
+        "Speed": 40.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 45.0
+      }
+    ],
+    "Dark": [
+      {
+        "Name": "Guzzlord",
+        "HP": 223.0,
+        "Atk": 101.0,
+        "Def": 53.0,
+        "Speed": 43.0,
+        "SpecialAtk": 97.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Yveltal",
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Mandibuzz",
+        "HP": 110.0,
+        "Atk": 65.0,
+        "Def": 105.0,
+        "Speed": 80.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Zarude",
+        "HP": 105.0,
+        "Atk": 120.0,
+        "Def": 105.0,
+        "Speed": 105.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Skuntank",
+        "HP": 103.0,
+        "Atk": 93.0,
+        "Def": 67.0,
+        "Speed": 84.0,
+        "SpecialAtk": 71.0,
+        "SpecialDef": 61.0
+      }
+    ],
+    "Electric": [
+      {
+        "Name": "Lanturn",
+        "HP": 125.0,
+        "Atk": 58.0,
+        "Def": 58.0,
+        "Speed": 67.0,
+        "SpecialAtk": 76.0,
+        "SpecialDef": 76.0
+      },
+      {
+        "Name": "Stunfisk",
+        "HP": 109.0,
+        "Atk": 66.0,
+        "Def": 84.0,
+        "Speed": 32.0,
+        "SpecialAtk": 81.0,
+        "SpecialDef": 99.0
+      },
+      {
+        "Name": "Zekrom",
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Raikou",
+        "HP": 90.0,
+        "Atk": 85.0,
+        "Def": 75.0,
+        "Speed": 115.0,
+        "SpecialAtk": 115.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Ampharos",
+        "HP": 90.0,
+        "Atk": 75.0,
+        "Def": 85.0,
+        "Speed": 55.0,
+        "SpecialAtk": 115.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Ice": [
+      {
+        "Name": "Lapras",
+        "HP": 130.0,
+        "Atk": 85.0,
+        "Def": 80.0,
+        "Speed": 60.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Kyurem",
+        "HP": 125.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Aurorus",
+        "HP": 123.0,
+        "Atk": 77.0,
+        "Def": 72.0,
+        "Speed": 58.0,
+        "SpecialAtk": 99.0,
+        "SpecialDef": 92.0
+      },
+      {
+        "Name": "Walrein",
+        "HP": 110.0,
+        "Atk": 80.0,
+        "Def": 90.0,
+        "Speed": 65.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Mamoswine",
+        "HP": 110.0,
+        "Atk": 130.0,
+        "Def": 80.0,
+        "Speed": 80.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 60.0
+      }
+    ],
+    "Bug": [
+      {
+        "Name": "Buzzwole",
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Centiskorch",
+        "HP": 100.0,
+        "Atk": 115.0,
+        "Def": 65.0,
+        "Speed": 65.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Yanmega",
+        "HP": 86.0,
+        "Atk": 76.0,
+        "Def": 86.0,
+        "Speed": 95.0,
+        "SpecialAtk": 116.0,
+        "SpecialDef": 56.0
+      },
+      {
+        "Name": "Volcarona",
+        "HP": 85.0,
+        "Atk": 60.0,
+        "Def": 65.0,
+        "Speed": 100.0,
+        "SpecialAtk": 135.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Vivillon",
+        "HP": 80.0,
+        "Atk": 52.0,
+        "Def": 50.0,
+        "Speed": 89.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 50.0
+      }
+    ],
+    "Steel": [
+      {
+        "Name": "Solgaleo",
+        "HP": 137.0,
+        "Atk": 137.0,
+        "Def": 107.0,
+        "Speed": 97.0,
+        "SpecialAtk": 113.0,
+        "SpecialDef": 89.0
+      },
+      {
+        "Name": "Melmetal",
+        "HP": 135.0,
+        "Atk": 143.0,
+        "Def": 143.0,
+        "Speed": 34.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Copperajah",
+        "HP": 122.0,
+        "Atk": 130.0,
+        "Def": 69.0,
+        "Speed": 30.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 69.0
+      },
+      {
+        "Name": "Excadrill",
+        "HP": 110.0,
+        "Atk": 135.0,
+        "Def": 60.0,
+        "Speed": 88.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Dialga",
+        "HP": 100.0,
+        "Atk": 120.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 100.0
+      }
+    ],
+    "Grass": [
+      {
+        "Name": "Gogoat",
+        "HP": 123.0,
+        "Atk": 100.0,
+        "Def": 62.0,
+        "Speed": 68.0,
+        "SpecialAtk": 97.0,
+        "SpecialDef": 81.0
+      },
+      {
+        "Name": "Amoonguss",
+        "HP": 114.0,
+        "Atk": 85.0,
+        "Def": 70.0,
+        "Speed": 30.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Appletun",
+        "HP": 110.0,
+        "Atk": 85.0,
+        "Def": 80.0,
+        "Speed": 30.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Zarude",
+        "HP": 105.0,
+        "Atk": 120.0,
+        "Def": 105.0,
+        "Speed": 105.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Shaymin",
+        "HP": 100.0,
+        "Atk": 100.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 100.0
+      }
+    ]
+  },
+  "Top5Ataque": {
+    "Geral": [
+      {
+        "Name": "Kartana",
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Rampardos",
+        "HP": 97.0,
+        "Atk": 165.0,
+        "Def": 60.0,
+        "Speed": 58.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Regigigas",
+        "HP": 110.0,
+        "Atk": 160.0,
+        "Def": 110.0,
+        "Speed": 100.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Slaking",
+        "HP": 150.0,
+        "Atk": 160.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Rayquaza",
+        "HP": 105.0,
+        "Atk": 150.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Fire": [
+      {
+        "Name": "Darmanitan",
+        "HP": 105.0,
+        "Atk": 140.0,
+        "Def": 55.0,
+        "Speed": 95.0,
+        "SpecialAtk": 30.0,
+        "SpecialDef": 55.0
+      },
+      {
+        "Name": "Flareon",
+        "HP": 65.0,
+        "Atk": 130.0,
+        "Def": 60.0,
+        "Speed": 65.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Ho-Oh",
+        "HP": 106.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 90.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Blacephalon",
+        "HP": 53.0,
+        "Atk": 127.0,
+        "Def": 53.0,
+        "Speed": 107.0,
+        "SpecialAtk": 151.0,
+        "SpecialDef": 79.0
+      },
+      {
+        "Name": "Emboar",
+        "HP": 110.0,
+        "Atk": 123.0,
+        "Def": 65.0,
+        "Speed": 65.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 65.0
+      }
+    ],
+    "Water": [
+      {
+        "Name": "Kingler",
+        "HP": 55.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 75.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Golisopod",
+        "HP": 75.0,
+        "Atk": 125.0,
+        "Def": 140.0,
+        "Speed": 40.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Gyarados",
+        "HP": 95.0,
+        "Atk": 125.0,
+        "Def": 79.0,
+        "Speed": 81.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Barraskewda",
+        "HP": 61.0,
+        "Atk": 123.0,
+        "Def": 60.0,
+        "Speed": 136.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Palkia",
+        "HP": 90.0,
+        "Atk": 120.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 120.0
+      }
+    ],
+    "Ground": [
+      {
+        "Name": "Groudon",
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 140.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Rhyperior",
+        "HP": 115.0,
+        "Atk": 140.0,
+        "Def": 130.0,
+        "Speed": 40.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 55.0
+      },
+      {
+        "Name": "Excadrill",
+        "HP": 110.0,
+        "Atk": 135.0,
+        "Def": 60.0,
+        "Speed": 88.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Mamoswine",
+        "HP": 110.0,
+        "Atk": 130.0,
+        "Def": 80.0,
+        "Speed": 80.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Garchomp",
+        "HP": 108.0,
+        "Atk": 130.0,
+        "Def": 95.0,
+        "Speed": 102.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 85.0
+      }
+    ],
+    "Poison": [
+      {
+        "Name": "Toxicroak",
+        "HP": 83.0,
+        "Atk": 106.0,
+        "Def": 65.0,
+        "Speed": 85.0,
+        "SpecialAtk": 86.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Muk",
+        "HP": 105.0,
+        "Atk": 105.0,
+        "Def": 75.0,
+        "Speed": 50.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Victreebel",
+        "HP": 80.0,
+        "Atk": 105.0,
+        "Def": 65.0,
+        "Speed": 70.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Nidoking",
+        "HP": 81.0,
+        "Atk": 102.0,
+        "Def": 77.0,
+        "Speed": 85.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Seviper",
+        "HP": 73.0,
+        "Atk": 100.0,
+        "Def": 60.0,
+        "Speed": 65.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 60.0
+      }
+    ],
+    "Fairy": [
+      {
+        "Name": "Xerneas",
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Zacian",
+        "HP": 92.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 138.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 115.0
+      },
+      {
+        "Name": "Tapu Bulu",
+        "HP": 70.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 75.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Grimmsnarl",
+        "HP": 95.0,
+        "Atk": 120.0,
+        "Def": 65.0,
+        "Speed": 60.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Granbull",
+        "HP": 90.0,
+        "Atk": 120.0,
+        "Def": 75.0,
+        "Speed": 45.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 60.0
+      }
+    ],
+    "Normal": [
+      {
+        "Name": "Slaking",
+        "HP": 150.0,
+        "Atk": 160.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Regigigas",
+        "HP": 110.0,
+        "Atk": 160.0,
+        "Def": 110.0,
+        "Speed": 100.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Ursaring",
+        "HP": 90.0,
+        "Atk": 130.0,
+        "Def": 75.0,
+        "Speed": 55.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Bewear",
+        "HP": 120.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 60.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Braviary",
+        "HP": 100.0,
+        "Atk": 123.0,
+        "Def": 75.0,
+        "Speed": 80.0,
+        "SpecialAtk": 57.0,
+        "SpecialDef": 75.0
+      }
+    ],
+    "Dragon": [
+      {
+        "Name": "Zekrom",
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Rayquaza",
+        "HP": 105.0,
+        "Atk": 150.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Haxorus",
+        "HP": 76.0,
+        "Atk": 147.0,
+        "Def": 90.0,
+        "Speed": 97.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Salamence",
+        "HP": 95.0,
+        "Atk": 135.0,
+        "Def": 80.0,
+        "Speed": 100.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Dragonite",
+        "HP": 91.0,
+        "Atk": 134.0,
+        "Def": 95.0,
+        "Speed": 80.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 100.0
+      }
+    ],
+    "Psychic": [
+      {
+        "Name": "Deoxys",
+        "HP": 50.0,
+        "Atk": 150.0,
+        "Def": 50.0,
+        "Speed": 150.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Solgaleo",
+        "HP": 137.0,
+        "Atk": 137.0,
+        "Def": 107.0,
+        "Speed": 97.0,
+        "SpecialAtk": 113.0,
+        "SpecialDef": 89.0
+      },
+      {
+        "Name": "Metagross",
+        "HP": 80.0,
+        "Atk": 135.0,
+        "Def": 130.0,
+        "Speed": 70.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Azelf",
+        "HP": 75.0,
+        "Atk": 125.0,
+        "Def": 70.0,
+        "Speed": 115.0,
+        "SpecialAtk": 125.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Gallade",
+        "HP": 68.0,
+        "Atk": 125.0,
+        "Def": 65.0,
+        "Speed": 80.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 115.0
+      }
+    ],
+    "Fighting": [
+      {
+        "Name": "Conkeldurr",
+        "HP": 105.0,
+        "Atk": 140.0,
+        "Def": 95.0,
+        "Speed": 45.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Buzzwole",
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Pheromosa",
+        "HP": 71.0,
+        "Atk": 137.0,
+        "Def": 37.0,
+        "Speed": 151.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 37.0
+      },
+      {
+        "Name": "Sirfetch'd",
+        "HP": 62.0,
+        "Atk": 135.0,
+        "Def": 95.0,
+        "Speed": 65.0,
+        "SpecialAtk": 68.0,
+        "SpecialDef": 82.0
+      },
+      {
+        "Name": "Crabominable",
+        "HP": 97.0,
+        "Atk": 132.0,
+        "Def": 77.0,
+        "Speed": 43.0,
+        "SpecialAtk": 62.0,
+        "SpecialDef": 67.0
+      }
+    ],
+    "Ghost": [
+      {
+        "Name": "Dhelmise",
+        "HP": 70.0,
+        "Atk": 131.0,
+        "Def": 100.0,
+        "Speed": 40.0,
+        "SpecialAtk": 86.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Blacephalon",
+        "HP": 53.0,
+        "Atk": 127.0,
+        "Def": 53.0,
+        "Speed": 107.0,
+        "SpecialAtk": 151.0,
+        "SpecialDef": 79.0
+      },
+      {
+        "Name": "Marshadow",
+        "HP": 90.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 125.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Golurk",
+        "HP": 89.0,
+        "Atk": 124.0,
+        "Def": 80.0,
+        "Speed": 55.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Dragapult",
+        "HP": 88.0,
+        "Atk": 120.0,
+        "Def": 75.0,
+        "Speed": 142.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 75.0
+      }
+    ],
+    "Flying": [
+      {
+        "Name": "Rayquaza",
+        "HP": 105.0,
+        "Atk": 150.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Archeops",
+        "HP": 75.0,
+        "Atk": 140.0,
+        "Def": 65.0,
+        "Speed": 110.0,
+        "SpecialAtk": 112.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Salamence",
+        "HP": 95.0,
+        "Atk": 135.0,
+        "Def": 80.0,
+        "Speed": 100.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Dragonite",
+        "HP": 91.0,
+        "Atk": 134.0,
+        "Def": 95.0,
+        "Speed": 80.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Yveltal",
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      }
+    ],
+    "Rock": [
+      {
+        "Name": "Rampardos",
+        "HP": 97.0,
+        "Atk": 165.0,
+        "Def": 60.0,
+        "Speed": 58.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Archeops",
+        "HP": 75.0,
+        "Atk": 140.0,
+        "Def": 65.0,
+        "Speed": 110.0,
+        "SpecialAtk": 112.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Rhyperior",
+        "HP": 115.0,
+        "Atk": 140.0,
+        "Def": 130.0,
+        "Speed": 40.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 55.0
+      },
+      {
+        "Name": "Gigalith",
+        "HP": 85.0,
+        "Atk": 135.0,
+        "Def": 130.0,
+        "Speed": 25.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Tyranitar",
+        "HP": 100.0,
+        "Atk": 134.0,
+        "Def": 110.0,
+        "Speed": 61.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 100.0
+      }
+    ],
+    "Dark": [
+      {
+        "Name": "Tyranitar",
+        "HP": 100.0,
+        "Atk": 134.0,
+        "Def": 110.0,
+        "Speed": 61.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Yveltal",
+        "HP": 126.0,
+        "Atk": 131.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 131.0,
+        "SpecialDef": 98.0
+      },
+      {
+        "Name": "Urshifu",
+        "HP": 100.0,
+        "Atk": 130.0,
+        "Def": 100.0,
+        "Speed": 97.0,
+        "SpecialAtk": 63.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Absol",
+        "HP": 65.0,
+        "Atk": 130.0,
+        "Def": 60.0,
+        "Speed": 75.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Bisharp",
+        "HP": 65.0,
+        "Atk": 125.0,
+        "Def": 100.0,
+        "Speed": 70.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 70.0
+      }
+    ],
+    "Electric": [
+      {
+        "Name": "Zekrom",
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Electivire",
+        "HP": 75.0,
+        "Atk": 123.0,
+        "Def": 67.0,
+        "Speed": 95.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Luxray",
+        "HP": 80.0,
+        "Atk": 120.0,
+        "Def": 79.0,
+        "Speed": 70.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 79.0
+      },
+      {
+        "Name": "Thundurus",
+        "HP": 79.0,
+        "Atk": 115.0,
+        "Def": 70.0,
+        "Speed": 111.0,
+        "SpecialAtk": 125.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Eelektross",
+        "HP": 85.0,
+        "Atk": 115.0,
+        "Def": 80.0,
+        "Speed": 50.0,
+        "SpecialAtk": 105.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Ice": [
+      {
+        "Name": "Glastrier",
+        "HP": 100.0,
+        "Atk": 145.0,
+        "Def": 130.0,
+        "Speed": 30.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Crabominable",
+        "HP": 97.0,
+        "Atk": 132.0,
+        "Def": 77.0,
+        "Speed": 43.0,
+        "SpecialAtk": 62.0,
+        "SpecialDef": 67.0
+      },
+      {
+        "Name": "Mamoswine",
+        "HP": 110.0,
+        "Atk": 130.0,
+        "Def": 80.0,
+        "Speed": 80.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Beartic",
+        "HP": 95.0,
+        "Atk": 130.0,
+        "Def": 80.0,
+        "Speed": 50.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Kyurem",
+        "HP": 125.0,
+        "Atk": 130.0,
+        "Def": 90.0,
+        "Speed": 95.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Bug": [
+      {
+        "Name": "Buzzwole",
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Pheromosa",
+        "HP": 71.0,
+        "Atk": 137.0,
+        "Def": 37.0,
+        "Speed": 151.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 37.0
+      },
+      {
+        "Name": "Escavalier",
+        "HP": 70.0,
+        "Atk": 135.0,
+        "Def": 105.0,
+        "Speed": 20.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Scizor",
+        "HP": 70.0,
+        "Atk": 130.0,
+        "Def": 100.0,
+        "Speed": 65.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Armaldo",
+        "HP": 75.0,
+        "Atk": 125.0,
+        "Def": 100.0,
+        "Speed": 45.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Steel": [
+      {
+        "Name": "Kartana",
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Melmetal",
+        "HP": 135.0,
+        "Atk": 143.0,
+        "Def": 143.0,
+        "Speed": 34.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Solgaleo",
+        "HP": 137.0,
+        "Atk": 137.0,
+        "Def": 107.0,
+        "Speed": 97.0,
+        "SpecialAtk": 113.0,
+        "SpecialDef": 89.0
+      },
+      {
+        "Name": "Metagross",
+        "HP": 80.0,
+        "Atk": 135.0,
+        "Def": 130.0,
+        "Speed": 70.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Excadrill",
+        "HP": 110.0,
+        "Atk": 135.0,
+        "Def": 60.0,
+        "Speed": 88.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 65.0
+      }
+    ],
+    "Grass": [
+      {
+        "Name": "Kartana",
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Dhelmise",
+        "HP": 70.0,
+        "Atk": 131.0,
+        "Def": 100.0,
+        "Speed": 40.0,
+        "SpecialAtk": 86.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Tapu Bulu",
+        "HP": 70.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 75.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Breloom",
+        "HP": 60.0,
+        "Atk": 130.0,
+        "Def": 80.0,
+        "Speed": 70.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Rillaboom",
+        "HP": 100.0,
+        "Atk": 125.0,
+        "Def": 90.0,
+        "Speed": 85.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 70.0
+      }
+    ]
+  },
+  "Top5Defesa": {
+    "Geral": [
+      {
+        "Name": "Shuckle",
+        "HP": 20.0,
+        "Atk": 10.0,
+        "Def": 230.0,
+        "Speed": 5.0,
+        "SpecialAtk": 10.0,
+        "SpecialDef": 230.0
+      },
+      {
+        "Name": "Stakataka",
+        "HP": 61.0,
+        "Atk": 131.0,
+        "Def": 211.0,
+        "Speed": 13.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 101.0
+      },
+      {
+        "Name": "Steelix",
+        "HP": 75.0,
+        "Atk": 85.0,
+        "Def": 200.0,
+        "Speed": 30.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Regirock",
+        "HP": 80.0,
+        "Atk": 100.0,
+        "Def": 200.0,
+        "Speed": 50.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Avalugg",
+        "HP": 95.0,
+        "Atk": 117.0,
+        "Def": 184.0,
+        "Speed": 28.0,
+        "SpecialAtk": 44.0,
+        "SpecialDef": 46.0
+      }
+    ],
+    "Fire": [
+      {
+        "Name": "Torkoal",
+        "HP": 70.0,
+        "Atk": 85.0,
+        "Def": 140.0,
+        "Speed": 20.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Turtonator",
+        "HP": 60.0,
+        "Atk": 78.0,
+        "Def": 135.0,
+        "Speed": 36.0,
+        "SpecialAtk": 91.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Coalossal",
+        "HP": 110.0,
+        "Atk": 80.0,
+        "Def": 120.0,
+        "Speed": 30.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Volcanion",
+        "HP": 80.0,
+        "Atk": 110.0,
+        "Def": 120.0,
+        "Speed": 70.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Magcargo",
+        "HP": 60.0,
+        "Atk": 50.0,
+        "Def": 120.0,
+        "Speed": 30.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Water": [
+      {
+        "Name": "Cloyster",
+        "HP": 50.0,
+        "Atk": 95.0,
+        "Def": 180.0,
+        "Speed": 70.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 45.0
+      },
+      {
+        "Name": "Toxapex",
+        "HP": 50.0,
+        "Atk": 63.0,
+        "Def": 152.0,
+        "Speed": 35.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 142.0
+      },
+      {
+        "Name": "Golisopod",
+        "HP": 75.0,
+        "Atk": 125.0,
+        "Def": 140.0,
+        "Speed": 40.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Carracosta",
+        "HP": 74.0,
+        "Atk": 108.0,
+        "Def": 133.0,
+        "Speed": 32.0,
+        "SpecialAtk": 83.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Relicanth",
+        "HP": 100.0,
+        "Atk": 90.0,
+        "Def": 130.0,
+        "Speed": 55.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 65.0
+      }
+    ],
+    "Ground": [
+      {
+        "Name": "Steelix",
+        "HP": 75.0,
+        "Atk": 85.0,
+        "Def": 200.0,
+        "Speed": 30.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Onix",
+        "HP": 35.0,
+        "Atk": 45.0,
+        "Def": 160.0,
+        "Speed": 70.0,
+        "SpecialAtk": 30.0,
+        "SpecialDef": 45.0
+      },
+      {
+        "Name": "Runerigus",
+        "HP": 58.0,
+        "Atk": 95.0,
+        "Def": 145.0,
+        "Speed": 30.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Groudon",
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 140.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Rhyperior",
+        "HP": 115.0,
+        "Atk": 140.0,
+        "Def": 130.0,
+        "Speed": 40.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 55.0
+      }
+    ],
+    "Poison": [
+      {
+        "Name": "Toxapex",
+        "HP": 50.0,
+        "Atk": 63.0,
+        "Def": 152.0,
+        "Speed": 35.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 142.0
+      },
+      {
+        "Name": "Weezing",
+        "HP": 65.0,
+        "Atk": 90.0,
+        "Def": 120.0,
+        "Speed": 60.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Drapion",
+        "HP": 70.0,
+        "Atk": 90.0,
+        "Def": 110.0,
+        "Speed": 95.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Whirlipede",
+        "HP": 40.0,
+        "Atk": 55.0,
+        "Def": 99.0,
+        "Speed": 47.0,
+        "SpecialAtk": 40.0,
+        "SpecialDef": 79.0
+      },
+      {
+        "Name": "Koffing",
+        "HP": 40.0,
+        "Atk": 65.0,
+        "Def": 95.0,
+        "Speed": 35.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 45.0
+      }
+    ],
+    "Fairy": [
+      {
+        "Name": "Diancie",
+        "HP": 50.0,
+        "Atk": 100.0,
+        "Def": 150.0,
+        "Speed": 50.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 150.0
+      },
+      {
+        "Name": "Carbink",
+        "HP": 50.0,
+        "Atk": 50.0,
+        "Def": 150.0,
+        "Speed": 50.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 150.0
+      },
+      {
+        "Name": "Magearna",
+        "HP": 80.0,
+        "Atk": 95.0,
+        "Def": 115.0,
+        "Speed": 65.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 115.0
+      },
+      {
+        "Name": "Tapu Fini",
+        "HP": 70.0,
+        "Atk": 75.0,
+        "Def": 115.0,
+        "Speed": 85.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 130.0
+      },
+      {
+        "Name": "Tapu Bulu",
+        "HP": 70.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 75.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 95.0
+      }
+    ],
+    "Normal": [
+      {
+        "Name": "Arceus",
+        "HP": 120.0,
+        "Atk": 120.0,
+        "Def": 120.0,
+        "Speed": 120.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Regigigas",
+        "HP": 110.0,
+        "Atk": 160.0,
+        "Def": 110.0,
+        "Speed": 100.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Miltank",
+        "HP": 95.0,
+        "Atk": 80.0,
+        "Def": 105.0,
+        "Speed": 100.0,
+        "SpecialAtk": 40.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Obstagoon",
+        "HP": 93.0,
+        "Atk": 90.0,
+        "Def": 101.0,
+        "Speed": 95.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 81.0
+      },
+      {
+        "Name": "Dubwool",
+        "HP": 72.0,
+        "Atk": 80.0,
+        "Def": 100.0,
+        "Speed": 88.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Dragon": [
+      {
+        "Name": "Turtonator",
+        "HP": 60.0,
+        "Atk": 78.0,
+        "Def": 135.0,
+        "Speed": 36.0,
+        "SpecialAtk": 91.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Kommo-o",
+        "HP": 75.0,
+        "Atk": 110.0,
+        "Def": 125.0,
+        "Speed": 85.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Zygarde",
+        "HP": 108.0,
+        "Atk": 100.0,
+        "Def": 121.0,
+        "Speed": 95.0,
+        "SpecialAtk": 81.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Giratina",
+        "HP": 150.0,
+        "Atk": 100.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Zekrom",
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 100.0
+      }
+    ],
+    "Psychic": [
+      {
+        "Name": "Cosmoem",
+        "HP": 43.0,
+        "Atk": 29.0,
+        "Def": 131.0,
+        "Speed": 37.0,
+        "SpecialAtk": 29.0,
+        "SpecialDef": 131.0
+      },
+      {
+        "Name": "Metagross",
+        "HP": 80.0,
+        "Atk": 135.0,
+        "Def": 130.0,
+        "Speed": 70.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Uxie",
+        "HP": 75.0,
+        "Atk": 75.0,
+        "Def": 130.0,
+        "Speed": 95.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 130.0
+      },
+      {
+        "Name": "Lugia",
+        "HP": 106.0,
+        "Atk": 90.0,
+        "Def": 130.0,
+        "Speed": 110.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Cresselia",
+        "HP": 120.0,
+        "Atk": 70.0,
+        "Def": 120.0,
+        "Speed": 85.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 130.0
+      }
+    ],
+    "Fighting": [
+      {
+        "Name": "Buzzwole",
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Cobalion",
+        "HP": 91.0,
+        "Atk": 90.0,
+        "Def": 129.0,
+        "Speed": 108.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 72.0
+      },
+      {
+        "Name": "Kommo-o",
+        "HP": 75.0,
+        "Atk": 110.0,
+        "Def": 125.0,
+        "Speed": 85.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Chesnaught",
+        "HP": 88.0,
+        "Atk": 107.0,
+        "Def": 122.0,
+        "Speed": 64.0,
+        "SpecialAtk": 74.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Scrafty",
+        "HP": 65.0,
+        "Atk": 90.0,
+        "Def": 115.0,
+        "Speed": 58.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 115.0
+      }
+    ],
+    "Ghost": [
+      {
+        "Name": "Doublade",
+        "HP": 59.0,
+        "Atk": 110.0,
+        "Def": 150.0,
+        "Speed": 35.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 49.0
+      },
+      {
+        "Name": "Runerigus",
+        "HP": 58.0,
+        "Atk": 95.0,
+        "Def": 145.0,
+        "Speed": 30.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Cofagrigus",
+        "HP": 58.0,
+        "Atk": 50.0,
+        "Def": 145.0,
+        "Speed": 30.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 105.0
+      },
+      {
+        "Name": "Aegislash",
+        "HP": 60.0,
+        "Atk": 50.0,
+        "Def": 140.0,
+        "Speed": 60.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 140.0
+      },
+      {
+        "Name": "Dusknoir",
+        "HP": 45.0,
+        "Atk": 100.0,
+        "Def": 135.0,
+        "Speed": 45.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 135.0
+      }
+    ],
+    "Flying": [
+      {
+        "Name": "Skarmory",
+        "HP": 65.0,
+        "Atk": 80.0,
+        "Def": 140.0,
+        "Speed": 70.0,
+        "SpecialAtk": 40.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Lugia",
+        "HP": 106.0,
+        "Atk": 90.0,
+        "Def": 130.0,
+        "Speed": 110.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 154.0
+      },
+      {
+        "Name": "Gliscor",
+        "HP": 75.0,
+        "Atk": 95.0,
+        "Def": 125.0,
+        "Speed": 95.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Mandibuzz",
+        "HP": 110.0,
+        "Atk": 65.0,
+        "Def": 105.0,
+        "Speed": 80.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Gligar",
+        "HP": 65.0,
+        "Atk": 75.0,
+        "Def": 105.0,
+        "Speed": 85.0,
+        "SpecialAtk": 35.0,
+        "SpecialDef": 65.0
+      }
+    ],
+    "Rock": [
+      {
+        "Name": "Shuckle",
+        "HP": 20.0,
+        "Atk": 10.0,
+        "Def": 230.0,
+        "Speed": 5.0,
+        "SpecialAtk": 10.0,
+        "SpecialDef": 230.0
+      },
+      {
+        "Name": "Stakataka",
+        "HP": 61.0,
+        "Atk": 131.0,
+        "Def": 211.0,
+        "Speed": 13.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 101.0
+      },
+      {
+        "Name": "Regirock",
+        "HP": 80.0,
+        "Atk": 100.0,
+        "Def": 200.0,
+        "Speed": 50.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Aggron",
+        "HP": 70.0,
+        "Atk": 110.0,
+        "Def": 180.0,
+        "Speed": 50.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Bastiodon",
+        "HP": 60.0,
+        "Atk": 52.0,
+        "Def": 168.0,
+        "Speed": 30.0,
+        "SpecialAtk": 47.0,
+        "SpecialDef": 138.0
+      }
+    ],
+    "Dark": [
+      {
+        "Name": "Scrafty",
+        "HP": 65.0,
+        "Atk": 90.0,
+        "Def": 115.0,
+        "Speed": 58.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 115.0
+      },
+      {
+        "Name": "Tyranitar",
+        "HP": 100.0,
+        "Atk": 134.0,
+        "Def": 110.0,
+        "Speed": 61.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Drapion",
+        "HP": 70.0,
+        "Atk": 90.0,
+        "Def": 110.0,
+        "Speed": 95.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Umbreon",
+        "HP": 95.0,
+        "Atk": 65.0,
+        "Def": 110.0,
+        "Speed": 65.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 130.0
+      },
+      {
+        "Name": "Spiritomb",
+        "HP": 50.0,
+        "Atk": 92.0,
+        "Def": 108.0,
+        "Speed": 35.0,
+        "SpecialAtk": 92.0,
+        "SpecialDef": 108.0
+      }
+    ],
+    "Electric": [
+      {
+        "Name": "Zekrom",
+        "HP": 100.0,
+        "Atk": 150.0,
+        "Def": 120.0,
+        "Speed": 90.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Magnezone",
+        "HP": 70.0,
+        "Atk": 70.0,
+        "Def": 115.0,
+        "Speed": 60.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Pincurchin",
+        "HP": 48.0,
+        "Atk": 101.0,
+        "Def": 95.0,
+        "Speed": 15.0,
+        "SpecialAtk": 91.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Charjabug",
+        "HP": 57.0,
+        "Atk": 82.0,
+        "Def": 95.0,
+        "Speed": 36.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Magneton",
+        "HP": 50.0,
+        "Atk": 60.0,
+        "Def": 95.0,
+        "Speed": 70.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 70.0
+      }
+    ],
+    "Ice": [
+      {
+        "Name": "Avalugg",
+        "HP": 95.0,
+        "Atk": 117.0,
+        "Def": 184.0,
+        "Speed": 28.0,
+        "SpecialAtk": 44.0,
+        "SpecialDef": 46.0
+      },
+      {
+        "Name": "Cloyster",
+        "HP": 50.0,
+        "Atk": 95.0,
+        "Def": 180.0,
+        "Speed": 70.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 45.0
+      },
+      {
+        "Name": "Glastrier",
+        "HP": 100.0,
+        "Atk": 145.0,
+        "Def": 130.0,
+        "Speed": 30.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 110.0
+      },
+      {
+        "Name": "Eiscue",
+        "HP": 75.0,
+        "Atk": 80.0,
+        "Def": 110.0,
+        "Speed": 50.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Glaceon",
+        "HP": 65.0,
+        "Atk": 60.0,
+        "Def": 110.0,
+        "Speed": 65.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 95.0
+      }
+    ],
+    "Bug": [
+      {
+        "Name": "Shuckle",
+        "HP": 20.0,
+        "Atk": 10.0,
+        "Def": 230.0,
+        "Speed": 5.0,
+        "SpecialAtk": 10.0,
+        "SpecialDef": 230.0
+      },
+      {
+        "Name": "Forretress",
+        "HP": 75.0,
+        "Atk": 90.0,
+        "Def": 140.0,
+        "Speed": 40.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Golisopod",
+        "HP": 75.0,
+        "Atk": 125.0,
+        "Def": 140.0,
+        "Speed": 40.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Buzzwole",
+        "HP": 107.0,
+        "Atk": 139.0,
+        "Def": 139.0,
+        "Speed": 79.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 53.0
+      },
+      {
+        "Name": "Crustle",
+        "HP": 70.0,
+        "Atk": 105.0,
+        "Def": 125.0,
+        "Speed": 45.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 75.0
+      }
+    ],
+    "Steel": [
+      {
+        "Name": "Stakataka",
+        "HP": 61.0,
+        "Atk": 131.0,
+        "Def": 211.0,
+        "Speed": 13.0,
+        "SpecialAtk": 53.0,
+        "SpecialDef": 101.0
+      },
+      {
+        "Name": "Steelix",
+        "HP": 75.0,
+        "Atk": 85.0,
+        "Def": 200.0,
+        "Speed": 30.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Aggron",
+        "HP": 70.0,
+        "Atk": 110.0,
+        "Def": 180.0,
+        "Speed": 50.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Bastiodon",
+        "HP": 60.0,
+        "Atk": 52.0,
+        "Def": 168.0,
+        "Speed": 30.0,
+        "SpecialAtk": 47.0,
+        "SpecialDef": 138.0
+      },
+      {
+        "Name": "Doublade",
+        "HP": 59.0,
+        "Atk": 110.0,
+        "Def": 150.0,
+        "Speed": 35.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 49.0
+      }
+    ],
+    "Grass": [
+      {
+        "Name": "Ferrothorn",
+        "HP": 74.0,
+        "Atk": 94.0,
+        "Def": 131.0,
+        "Speed": 20.0,
+        "SpecialAtk": 54.0,
+        "SpecialDef": 116.0
+      },
+      {
+        "Name": "Kartana",
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Leafeon",
+        "HP": 65.0,
+        "Atk": 110.0,
+        "Def": 130.0,
+        "Speed": 95.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Tangrowth",
+        "HP": 100.0,
+        "Atk": 100.0,
+        "Def": 125.0,
+        "Speed": 50.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Gourgeist",
+        "HP": 65.0,
+        "Atk": 90.0,
+        "Def": 122.0,
+        "Speed": 84.0,
+        "SpecialAtk": 58.0,
+        "SpecialDef": 75.0
+      }
+    ]
+  },
+  "Top5Speed": {
+    "Geral": [
+      {
+        "Name": "Regieleki",
+        "HP": 80.0,
+        "Atk": 100.0,
+        "Def": 50.0,
+        "Speed": 200.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Ninjask",
+        "HP": 61.0,
+        "Atk": 90.0,
+        "Def": 45.0,
+        "Speed": 160.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Pheromosa",
+        "HP": 71.0,
+        "Atk": 137.0,
+        "Def": 37.0,
+        "Speed": 151.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 37.0
+      },
+      {
+        "Name": "Deoxys",
+        "HP": 50.0,
+        "Atk": 150.0,
+        "Def": 50.0,
+        "Speed": 150.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Electrode",
+        "HP": 60.0,
+        "Atk": 50.0,
+        "Def": 70.0,
+        "Speed": 150.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 80.0
+      }
+    ],
+    "Fire": [
+      {
+        "Name": "Talonflame",
+        "HP": 78.0,
+        "Atk": 81.0,
+        "Def": 71.0,
+        "Speed": 126.0,
+        "SpecialAtk": 74.0,
+        "SpecialDef": 69.0
+      },
+      {
+        "Name": "Cinderace",
+        "HP": 80.0,
+        "Atk": 116.0,
+        "Def": 75.0,
+        "Speed": 119.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Salazzle",
+        "HP": 68.0,
+        "Atk": 64.0,
+        "Def": 60.0,
+        "Speed": 117.0,
+        "SpecialAtk": 111.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Infernape",
+        "HP": 76.0,
+        "Atk": 104.0,
+        "Def": 71.0,
+        "Speed": 108.0,
+        "SpecialAtk": 104.0,
+        "SpecialDef": 71.0
+      },
+      {
+        "Name": "Blacephalon",
+        "HP": 53.0,
+        "Atk": 127.0,
+        "Def": 53.0,
+        "Speed": 107.0,
+        "SpecialAtk": 151.0,
+        "SpecialDef": 79.0
+      }
+    ],
+    "Water": [
+      {
+        "Name": "Barraskewda",
+        "HP": 61.0,
+        "Atk": 123.0,
+        "Def": 60.0,
+        "Speed": 136.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Greninja",
+        "HP": 72.0,
+        "Atk": 95.0,
+        "Def": 67.0,
+        "Speed": 122.0,
+        "SpecialAtk": 103.0,
+        "SpecialDef": 71.0
+      },
+      {
+        "Name": "Inteleon",
+        "HP": 70.0,
+        "Atk": 85.0,
+        "Def": 65.0,
+        "Speed": 120.0,
+        "SpecialAtk": 125.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Floatzel",
+        "HP": 85.0,
+        "Atk": 105.0,
+        "Def": 55.0,
+        "Speed": 115.0,
+        "SpecialAtk": 85.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Starmie",
+        "HP": 60.0,
+        "Atk": 75.0,
+        "Def": 85.0,
+        "Speed": 115.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 85.0
+      }
+    ],
+    "Ground": [
+      {
+        "Name": "Dugtrio",
+        "HP": 35.0,
+        "Atk": 100.0,
+        "Def": 50.0,
+        "Speed": 120.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Garchomp",
+        "HP": 108.0,
+        "Atk": 130.0,
+        "Def": 95.0,
+        "Speed": 102.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Landorus",
+        "HP": 89.0,
+        "Atk": 125.0,
+        "Def": 90.0,
+        "Speed": 101.0,
+        "SpecialAtk": 115.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Flygon",
+        "HP": 80.0,
+        "Atk": 100.0,
+        "Def": 80.0,
+        "Speed": 100.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Gliscor",
+        "HP": 75.0,
+        "Atk": 95.0,
+        "Def": 125.0,
+        "Speed": 95.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 75.0
+      }
+    ],
+    "Poison": [
+      {
+        "Name": "Crobat",
+        "HP": 85.0,
+        "Atk": 90.0,
+        "Def": 80.0,
+        "Speed": 130.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Eternatus",
+        "HP": 140.0,
+        "Atk": 85.0,
+        "Def": 95.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Naganadel",
+        "HP": 73.0,
+        "Atk": 73.0,
+        "Def": 73.0,
+        "Speed": 121.0,
+        "SpecialAtk": 127.0,
+        "SpecialDef": 73.0
+      },
+      {
+        "Name": "Salazzle",
+        "HP": 68.0,
+        "Atk": 64.0,
+        "Def": 60.0,
+        "Speed": 117.0,
+        "SpecialAtk": 111.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Scolipede",
+        "HP": 60.0,
+        "Atk": 100.0,
+        "Def": 89.0,
+        "Speed": 112.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 69.0
+      }
+    ],
+    "Fairy": [
+      {
+        "Name": "Zacian",
+        "HP": 92.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 138.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 115.0
+      },
+      {
+        "Name": "Tapu Koko",
+        "HP": 70.0,
+        "Atk": 115.0,
+        "Def": 85.0,
+        "Speed": 130.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Ribombee",
+        "HP": 60.0,
+        "Atk": 55.0,
+        "Def": 60.0,
+        "Speed": 124.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Whimsicott",
+        "HP": 60.0,
+        "Atk": 67.0,
+        "Def": 85.0,
+        "Speed": 116.0,
+        "SpecialAtk": 77.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Dedenne",
+        "HP": 67.0,
+        "Atk": 58.0,
+        "Def": 57.0,
+        "Speed": 101.0,
+        "SpecialAtk": 81.0,
+        "SpecialDef": 67.0
+      }
+    ],
+    "Normal": [
+      {
+        "Name": "Swellow",
+        "HP": 60.0,
+        "Atk": 85.0,
+        "Def": 60.0,
+        "Speed": 125.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Arceus",
+        "HP": 120.0,
+        "Atk": 120.0,
+        "Def": 120.0,
+        "Speed": 120.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 120.0
+      },
+      {
+        "Name": "Cinccino",
+        "HP": 75.0,
+        "Atk": 95.0,
+        "Def": 60.0,
+        "Speed": 115.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Persian",
+        "HP": 65.0,
+        "Atk": 70.0,
+        "Def": 60.0,
+        "Speed": 115.0,
+        "SpecialAtk": 65.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Ambipom",
+        "HP": 75.0,
+        "Atk": 100.0,
+        "Def": 66.0,
+        "Speed": 115.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 66.0
+      }
+    ],
+    "Dragon": [
+      {
+        "Name": "Dragapult",
+        "HP": 88.0,
+        "Atk": 120.0,
+        "Def": 75.0,
+        "Speed": 142.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Eternatus",
+        "HP": 140.0,
+        "Atk": 85.0,
+        "Def": 95.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Noivern",
+        "HP": 85.0,
+        "Atk": 70.0,
+        "Def": 80.0,
+        "Speed": 123.0,
+        "SpecialAtk": 97.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Naganadel",
+        "HP": 73.0,
+        "Atk": 73.0,
+        "Def": 73.0,
+        "Speed": 121.0,
+        "SpecialAtk": 127.0,
+        "SpecialDef": 73.0
+      },
+      {
+        "Name": "Latios",
+        "HP": 80.0,
+        "Atk": 90.0,
+        "Def": 80.0,
+        "Speed": 110.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 110.0
+      }
+    ],
+    "Psychic": [
+      {
+        "Name": "Deoxys",
+        "HP": 50.0,
+        "Atk": 150.0,
+        "Def": 50.0,
+        "Speed": 150.0,
+        "SpecialAtk": 150.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Mewtwo",
+        "HP": 106.0,
+        "Atk": 110.0,
+        "Def": 90.0,
+        "Speed": 130.0,
+        "SpecialAtk": 154.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Alakazam",
+        "HP": 55.0,
+        "Atk": 50.0,
+        "Def": 45.0,
+        "Speed": 120.0,
+        "SpecialAtk": 135.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Azelf",
+        "HP": 75.0,
+        "Atk": 125.0,
+        "Def": 70.0,
+        "Speed": 115.0,
+        "SpecialAtk": 125.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Starmie",
+        "HP": 60.0,
+        "Atk": 75.0,
+        "Def": 85.0,
+        "Speed": 115.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 85.0
+      }
+    ],
+    "Fighting": [
+      {
+        "Name": "Pheromosa",
+        "HP": 71.0,
+        "Atk": 137.0,
+        "Def": 37.0,
+        "Speed": 151.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 37.0
+      },
+      {
+        "Name": "Zamazenta",
+        "HP": 92.0,
+        "Atk": 130.0,
+        "Def": 115.0,
+        "Speed": 138.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 115.0
+      },
+      {
+        "Name": "Marshadow",
+        "HP": 90.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 125.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Hawlucha",
+        "HP": 78.0,
+        "Atk": 92.0,
+        "Def": 75.0,
+        "Speed": 118.0,
+        "SpecialAtk": 74.0,
+        "SpecialDef": 63.0
+      },
+      {
+        "Name": "Terrakion",
+        "HP": 91.0,
+        "Atk": 129.0,
+        "Def": 90.0,
+        "Speed": 108.0,
+        "SpecialAtk": 72.0,
+        "SpecialDef": 90.0
+      }
+    ],
+    "Ghost": [
+      {
+        "Name": "Dragapult",
+        "HP": 88.0,
+        "Atk": 120.0,
+        "Def": 75.0,
+        "Speed": 142.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Spectrier",
+        "HP": 100.0,
+        "Atk": 65.0,
+        "Def": 60.0,
+        "Speed": 130.0,
+        "SpecialAtk": 145.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Marshadow",
+        "HP": 90.0,
+        "Atk": 125.0,
+        "Def": 80.0,
+        "Speed": 125.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Froslass",
+        "HP": 70.0,
+        "Atk": 80.0,
+        "Def": 70.0,
+        "Speed": 110.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Gengar",
+        "HP": 60.0,
+        "Atk": 65.0,
+        "Def": 60.0,
+        "Speed": 110.0,
+        "SpecialAtk": 130.0,
+        "SpecialDef": 75.0
+      }
+    ],
+    "Flying": [
+      {
+        "Name": "Ninjask",
+        "HP": 61.0,
+        "Atk": 90.0,
+        "Def": 45.0,
+        "Speed": 160.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Crobat",
+        "HP": 85.0,
+        "Atk": 90.0,
+        "Def": 80.0,
+        "Speed": 130.0,
+        "SpecialAtk": 70.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Aerodactyl",
+        "HP": 80.0,
+        "Atk": 105.0,
+        "Def": 65.0,
+        "Speed": 130.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Talonflame",
+        "HP": 78.0,
+        "Atk": 81.0,
+        "Def": 71.0,
+        "Speed": 126.0,
+        "SpecialAtk": 74.0,
+        "SpecialDef": 69.0
+      },
+      {
+        "Name": "Swellow",
+        "HP": 60.0,
+        "Atk": 85.0,
+        "Def": 60.0,
+        "Speed": 125.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 50.0
+      }
+    ],
+    "Rock": [
+      {
+        "Name": "Aerodactyl",
+        "HP": 80.0,
+        "Atk": 105.0,
+        "Def": 65.0,
+        "Speed": 130.0,
+        "SpecialAtk": 60.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Lycanroc",
+        "HP": 75.0,
+        "Atk": 115.0,
+        "Def": 65.0,
+        "Speed": 112.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Archeops",
+        "HP": 75.0,
+        "Atk": 140.0,
+        "Def": 65.0,
+        "Speed": 110.0,
+        "SpecialAtk": 112.0,
+        "SpecialDef": 65.0
+      },
+      {
+        "Name": "Terrakion",
+        "HP": 91.0,
+        "Atk": 129.0,
+        "Def": 90.0,
+        "Speed": 108.0,
+        "SpecialAtk": 72.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Nihilego",
+        "HP": 109.0,
+        "Atk": 53.0,
+        "Def": 47.0,
+        "Speed": 103.0,
+        "SpecialAtk": 127.0,
+        "SpecialDef": 131.0
+      }
+    ],
+    "Dark": [
+      {
+        "Name": "Weavile",
+        "HP": 70.0,
+        "Atk": 120.0,
+        "Def": 65.0,
+        "Speed": 125.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Darkrai",
+        "HP": 70.0,
+        "Atk": 90.0,
+        "Def": 90.0,
+        "Speed": 125.0,
+        "SpecialAtk": 135.0,
+        "SpecialDef": 90.0
+      },
+      {
+        "Name": "Greninja",
+        "HP": 72.0,
+        "Atk": 95.0,
+        "Def": 67.0,
+        "Speed": 122.0,
+        "SpecialAtk": 103.0,
+        "SpecialDef": 71.0
+      },
+      {
+        "Name": "Sneasel",
+        "HP": 55.0,
+        "Atk": 95.0,
+        "Def": 55.0,
+        "Speed": 115.0,
+        "SpecialAtk": 35.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Liepard",
+        "HP": 64.0,
+        "Atk": 88.0,
+        "Def": 50.0,
+        "Speed": 106.0,
+        "SpecialAtk": 88.0,
+        "SpecialDef": 50.0
+      }
+    ],
+    "Electric": [
+      {
+        "Name": "Regieleki",
+        "HP": 80.0,
+        "Atk": 100.0,
+        "Def": 50.0,
+        "Speed": 200.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Electrode",
+        "HP": 60.0,
+        "Atk": 50.0,
+        "Def": 70.0,
+        "Speed": 150.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Zeraora",
+        "HP": 88.0,
+        "Atk": 112.0,
+        "Def": 75.0,
+        "Speed": 143.0,
+        "SpecialAtk": 102.0,
+        "SpecialDef": 80.0
+      },
+      {
+        "Name": "Tapu Koko",
+        "HP": 70.0,
+        "Atk": 115.0,
+        "Def": 85.0,
+        "Speed": 130.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Jolteon",
+        "HP": 65.0,
+        "Atk": 65.0,
+        "Def": 60.0,
+        "Speed": 130.0,
+        "SpecialAtk": 110.0,
+        "SpecialDef": 95.0
+      }
+    ],
+    "Ice": [
+      {
+        "Name": "Weavile",
+        "HP": 70.0,
+        "Atk": 120.0,
+        "Def": 65.0,
+        "Speed": 125.0,
+        "SpecialAtk": 45.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Sneasel",
+        "HP": 55.0,
+        "Atk": 95.0,
+        "Def": 55.0,
+        "Speed": 115.0,
+        "SpecialAtk": 35.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Froslass",
+        "HP": 70.0,
+        "Atk": 80.0,
+        "Def": 70.0,
+        "Speed": 110.0,
+        "SpecialAtk": 80.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Cryogonal",
+        "HP": 80.0,
+        "Atk": 50.0,
+        "Def": 50.0,
+        "Speed": 105.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 135.0
+      },
+      {
+        "Name": "Jynx",
+        "HP": 65.0,
+        "Atk": 50.0,
+        "Def": 35.0,
+        "Speed": 95.0,
+        "SpecialAtk": 115.0,
+        "SpecialDef": 95.0
+      }
+    ],
+    "Bug": [
+      {
+        "Name": "Ninjask",
+        "HP": 61.0,
+        "Atk": 90.0,
+        "Def": 45.0,
+        "Speed": 160.0,
+        "SpecialAtk": 50.0,
+        "SpecialDef": 50.0
+      },
+      {
+        "Name": "Pheromosa",
+        "HP": 71.0,
+        "Atk": 137.0,
+        "Def": 37.0,
+        "Speed": 151.0,
+        "SpecialAtk": 137.0,
+        "SpecialDef": 37.0
+      },
+      {
+        "Name": "Accelgor",
+        "HP": 80.0,
+        "Atk": 70.0,
+        "Def": 40.0,
+        "Speed": 145.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 60.0
+      },
+      {
+        "Name": "Ribombee",
+        "HP": 60.0,
+        "Atk": 55.0,
+        "Def": 60.0,
+        "Speed": 124.0,
+        "SpecialAtk": 95.0,
+        "SpecialDef": 70.0
+      },
+      {
+        "Name": "Scolipede",
+        "HP": 60.0,
+        "Atk": 100.0,
+        "Def": 89.0,
+        "Speed": 112.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 69.0
+      }
+    ],
+    "Steel": [
+      {
+        "Name": "Kartana",
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      },
+      {
+        "Name": "Durant",
+        "HP": 58.0,
+        "Atk": 109.0,
+        "Def": 112.0,
+        "Speed": 109.0,
+        "SpecialAtk": 48.0,
+        "SpecialDef": 48.0
+      },
+      {
+        "Name": "Cobalion",
+        "HP": 91.0,
+        "Atk": 90.0,
+        "Def": 129.0,
+        "Speed": 108.0,
+        "SpecialAtk": 90.0,
+        "SpecialDef": 72.0
+      },
+      {
+        "Name": "Jirachi",
+        "HP": 100.0,
+        "Atk": 100.0,
+        "Def": 100.0,
+        "Speed": 100.0,
+        "SpecialAtk": 100.0,
+        "SpecialDef": 100.0
+      },
+      {
+        "Name": "Genesect",
+        "HP": 71.0,
+        "Atk": 120.0,
+        "Def": 95.0,
+        "Speed": 99.0,
+        "SpecialAtk": 120.0,
+        "SpecialDef": 95.0
+      }
+    ],
+    "Grass": [
+      {
+        "Name": "Sceptile",
+        "HP": 70.0,
+        "Atk": 85.0,
+        "Def": 65.0,
+        "Speed": 120.0,
+        "SpecialAtk": 105.0,
+        "SpecialDef": 85.0
+      },
+      {
+        "Name": "Whimsicott",
+        "HP": 60.0,
+        "Atk": 67.0,
+        "Def": 85.0,
+        "Speed": 116.0,
+        "SpecialAtk": 77.0,
+        "SpecialDef": 75.0
+      },
+      {
+        "Name": "Serperior",
+        "HP": 75.0,
+        "Atk": 75.0,
+        "Def": 95.0,
+        "Speed": 113.0,
+        "SpecialAtk": 75.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Jumpluff",
+        "HP": 75.0,
+        "Atk": 55.0,
+        "Def": 70.0,
+        "Speed": 110.0,
+        "SpecialAtk": 55.0,
+        "SpecialDef": 95.0
+      },
+      {
+        "Name": "Kartana",
+        "HP": 59.0,
+        "Atk": 181.0,
+        "Def": 131.0,
+        "Speed": 109.0,
+        "SpecialAtk": 59.0,
+        "SpecialDef": 31.0
+      }
+    ]
+  }
+}
